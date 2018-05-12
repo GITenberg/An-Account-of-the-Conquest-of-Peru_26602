@@ -1,0 +1,34 @@
+_repo: An-Account-of-the-Conquest-of-Peru_26602
+_version: 0.1.0
+alternative_title: Relación de la conquista del Perú. English
+contributor:
+  translator:
+    agent_name: Means, Philip Ainsworth
+    alias: Means, P. A. (Philip Ainsworth)
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '32118'
+    url: http://www.gutenberg.org/2009/agents/32118
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sancho, Pedro
+    gutenberg_agent_id: '32117'
+    url: http://www.gutenberg.org/2009/agents/32117
+description: ''
+gutenberg_issued: '2008-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26602'
+  lccn: '18015278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peru -- History -- Conquest, 1522-1548'
+- !lcc 'F3401'
+title: An Account of the Conquest of Peru
+url: http://www.gutenberg.org/ebooks/26602
